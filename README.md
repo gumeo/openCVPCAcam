@@ -9,8 +9,10 @@ cmake .
 make
 ./test
 ```
-You should now see three windows pop up with the three components.
+You should now see three windows pop up with the three PCs.
 
-The following image shows how my hand on a white background. A good separation is present in the first component, while smaller structures like veins are present in the second component.
+The following image shows how my hand on a white background. A good separation is present in the first component, while smaller structures like veins are present in the second component. The PCs are shown, first in top left corner, second in top right corner and third in the bottom right corner.
 
 ![screen capture from usage](./demo.png)
+
+I might add some more functionality in the future.
